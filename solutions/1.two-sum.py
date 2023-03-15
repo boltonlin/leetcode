@@ -5,14 +5,15 @@
 #
 
 # @lc code=start
+from typing import List
 class Solution:
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         map = dict()
         for i, num in enumerate(nums):
             complement = target - nums[i]
             for key, value in map.items():
                 if value == complement:
-                    return (key, i)
+                    return [key, i]
             map[len(map)] = nums[i]
         return None
 # @lc code=end

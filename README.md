@@ -1,6 +1,6 @@
-# My LeetCode Solutions
+# My LeetCode (and other) Solutions
 
-| #   | Problem | Solution                         | Difficulty | Date       |
-| --- | ------- | -------------------------------- | ---------- | ---------- |
-| 2   |         |                                  |            |            |
-| 1   | Two Sum | [Python](solutions/1.two-sum.py) | Easy       | 2023-02-15 |
+| Group    | Source        | Problem            | Solution                                      | Difficulty | Date       |
+| -------- | ------------- | ------------------ | --------------------------------------------- | ---------- | ---------- |
+| Blind 75 | LeetCode #217 | Contains Duplicate | [Python](solutions/217.contains-duplicate.py) | Easy       | 2023-03-15 |
+| Blind 75 | LeetCode #1   | Two Sum            | [Python](solutions/1.two-sum.py)              | Easy       | 2023-03-15 |

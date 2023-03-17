@@ -1,3 +1,5 @@
+# 230316
+
 #
 # @lc app=leetcode id=49 lang=python3
 #
@@ -6,7 +8,6 @@
 
 # @lc code=start
 from typing import List
-from collections import Counter
 
 
 class Solution:

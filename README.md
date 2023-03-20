@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------- | ---------- | ---------- | ----------- |
+| Blind 75 | [LintCode #659](https://www.lintcode.com/problem/659/)                                                    | Encode and Decode Strings    | N/A                                                     | Medium     | 2023-03-20 | 🏃‍♂️ Working  |
 | Blind 75 | [LeetCode #238](https://leetcode.com/problems/product-of-array-except-self/)                              | Product of Array Except Self | [Python](solutions/238.product-of-array-except-self.py) | Medium     | 2023-03-19 | ⭕ Complete |
 | Blind 75 | [LeetCode #347](https://leetcode.com/problems/top-k-frequent-elements/)                                   | Top K Frequent Elements      | [Python](solutions/347.top-k-frequent-elements.py)      | Medium     | 2023-03-16 | ⭕ Complete |
 | Blind 75 | [LeetCode #49](https://leetcode.com/problems/group-anagrams/)                                             | Group Anagrams               | [Python](solutions/49.group-anagrams.py)                | Medium     | 2023-03-16 | ⭕ Complete |

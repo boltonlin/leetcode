@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                         | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ---------- | ---------- | ----------- |
+| Blind 75 | [LeetCode #125](https://leetcode.com/problems/valid-palindrome/)                                          | Valid Palindrome             | [Python](leetcode_solutions/125.valid-palindrome.py)             | Easy       | 2023-03-22 | ⭕ Complete |
 | Blind 75 | [LeetCode #128](https://leetcode.com/problems/longest-consecutive-sequence/)                              | Longest Consecutive Sequence | [Python](leetcode_solutions/128.longest-consecutive-sequence.py) | Medium     | 2023-03-21 | ⭕ Complete |
 | Blind 75 | [LintCode #659](https://www.lintcode.com/problem/659/)                                                    | Encode and Decode Strings    | [Python](lintcode_solutions/659.encode-and-decode-strings.py)    | Medium     | 2023-03-20 | ⭕ Complete |
 | Blind 75 | [LeetCode #238](https://leetcode.com/problems/product-of-array-except-self/)                              | Product of Array Except Self | [Python](solutions/238.product-of-array-except-self.py)          | Medium     | 2023-03-19 | ⭕ Complete |

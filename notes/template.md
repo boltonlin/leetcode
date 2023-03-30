@@ -19,6 +19,11 @@ PUT EXAMPLE HERE
 - `CONSTRAINT2`
 
 ### Preliminary Solution
+
+#### Solution Code
+```
+SOLUTION CODE GOES HERE
+```
 - __Time Complexity__: O(TIME)
 - __Space Complexity__: O(SPACE)
 
@@ -28,15 +33,15 @@ Put a small compact description that can fit on the back of a flashcard here. It
 #### Additional Details
 Put any additional details or detailed description of the solution here. Not meant to go on a flashcard, but should be something you refer to in the case that you don't understand your compact descriptions.
 
-#### Solution Code
-```
-SOLUTION CODE GOES HERE
-```
-
 #### Notes
 - Anything additional goes here in bullets
 
 ### [Best Available Solution](SOLUTION_LINK)
+
+#### Solution Code
+```
+SOLUTION CODE GOES HERE
+```
 - __Time Complexity__: O(TIME)
 - __Space Complexity__: O(SPACE)
 
@@ -45,11 +50,6 @@ Put a small compact description of the solution that can fit on the back of a fl
 
 #### Additional Details
 Put any additional details or detailed description of the solution here. Not meant to go on a flashcard, but should be something you refer to in the case that you don't understand your compact descriptions.
-
-#### Solution Code
-```
-SOLUTION CODE GOES HERE
-```
 
 #### Notes
 - Anything additional goes here in bullets

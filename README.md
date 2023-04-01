@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                         | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ---------- | ---------- | ----------- |
+| Blind 75 | [LeetCode #76](https://leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring | [Python](leetcode_solutions/76.minimum-window-substring.py) | Hard | 2023-04-01 | ⚠ Need Work
 | Blind 75 | [LeetCode #20](https://leetcode.com/problems/valid-parentheses) | Valid Parentheses | [Python](leetcode_solutions/20.valid-parentheses.py) | Easy | 2023-03-30 | ⭕ Complete
 | Blind 75 | [LeetCode #424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement | [Python](leetcode_solutions/424.longest-repeating-character-replacement) | Medium | 2023-03-29 | ⭕ Complete
 | Blind 75 | [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Longest Substring Without Repeating Characters | [Python](leetcode_solutions/3.longest-substring-without-repeating-characters.py) | Medium | 2023-03-27 | ⭕ Complete 

@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                         | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ---------- | ---------- | ----------- |
+| Blind 75 | [LeetCode #143](https://leetcode.com/problems/reorder-list/) | Reorder List | [Python](leetcode_solutions/143.reorder-list.py) | Medium | 2023-04-06 | ⭕ Complete
 | Blind 75 | [LeetCode #21](https://leetcode.com/problems/merge-two-sorted-lists) | Merge Two Sorted Lists | [Python](leetcode_solutions/21.merge-two-sorted-lists.py) | Easy | 2023-04-05 | ⭕ Complete
 | Blind 75 | [LeetCode #206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | [Python](leetcode_solutions/206.reverse-linked-list) | Easy | 2023-04-04 | ⭕ Complete
 | Blind 75 | [LeetCode #33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Search in Rotated Sorted Array | [Python](leetcode_solutions/33.search-in-rotated-sorted-array.py) | Medium | 2023-04-03 | ⭕ Complete

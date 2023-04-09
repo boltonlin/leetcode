@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                         | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ---------- | ---------- | ----------- |
+| Blind 75 | [LeetCode #23](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Merge k Sorted Lists | [Python](leetcode_solutions/23.merge-k-sorted-lists.py) | Hard | 2023-04-09 | ⭕ Complete
 | Blind 75 | [LeetCode #141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle | [Python](leetcode_solutions/linked-list-cycle.py) | Easy | 2023-04-08 | ⭕ Complete
 | Blind 75 | [LeetCode #19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | [Python](leetcode_solutions/remove-nth-node-from-end-of-list) | Medium | 2023-04-07 | ⭕ Complete
 | Blind 75 | [LeetCode #143](https://leetcode.com/problems/reorder-list/) | Reorder List | [Python](leetcode_solutions/143.reorder-list.py) | Medium | 2023-04-06 | ⭕ Complete

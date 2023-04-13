@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                         | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ---------- | ---------- | ----------- |
+|Blind 75|[LeetCode #104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|Maximum Depth of Binary Tree|[Python](leetcode_solutions/104.maximum-depth-of-binary-tree.py)|Easy|2023-04-13|⭕ Complete
 |Blind 75|[LeetCode #226](https://leetcode.com/problems/invert-binary-tree/description/)|Invert Binary Tree|[Python](leetcode_solutions/226.invert-binary-tree.py)|Easy|2023-04-12|⭕ Complete
 | Blind 75 | [LeetCode #23](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Merge k Sorted Lists | [Python](leetcode_solutions/23.merge-k-sorted-lists.py) | Hard | 2023-04-09 | ⭕ Complete
 | Blind 75 | [LeetCode #141](https://leetcode.com/problems/linked-list-cycle) | Linked List Cycle | [Python](leetcode_solutions/linked-list-cycle.py) | Easy | 2023-04-08 | ⭕ Complete

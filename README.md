@@ -2,6 +2,7 @@
 
 | Group    | Source                                                                                                    | Problem                      | Solution                                                         | Difficulty | Date       | Status      |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- | ---------- | ---------- | ----------- |
+|Blind 75|[LeetCode #235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|Lowest Common Ancestor of a Binary Search Tree|[Python](leetcode_solutions/235.lowest-common-ancestor-of-a-binary-search-tree.py)|Medium|2023-04-20|⭕ Complete
 |Blind 75|[LeetCode #572](https://leetcode.com/problems/subtree-of-another-tree/description/)|Subtree of Another Tree|[Python](leetcode_solutions/572.subtree-of-another-tree.py)|Easy|2023-04-19|⭕ Complete
 |Blind 75|[LeetCode #100](https://leetcode.com/problems/same-tree/description/)|Same Tree|[Python](leetcode_solutions/100.same-tree.py)|Easy|2023-04-17|⭕ Complete
 |Blind 75|[LeetCode #104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|Maximum Depth of Binary Tree|[Python](leetcode_solutions/104.maximum-depth-of-binary-tree.py)|Easy|2023-04-13|⭕ Complete
